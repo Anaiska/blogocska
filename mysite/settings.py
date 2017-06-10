@@ -25,7 +25,7 @@ SECRET_KEY = 'k4ni8boebz3u*%$%y_kp%)-b%1yu##ah9^z9vjd&a825y=_@3_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_Anaiska>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'anaiska.pythonanywhere.com']
 
 
 # Application definition
